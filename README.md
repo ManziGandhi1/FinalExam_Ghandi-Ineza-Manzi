@@ -11,5 +11,5 @@ Additional features
 ·         Sorting
 ·         Pagination
  
-I have created a spring web application which is Employee Manager to implement the above features.
+I have created a spring web application which is Employee Manager to implement the above features....
 
